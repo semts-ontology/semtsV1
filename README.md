@@ -6,8 +6,8 @@ https://semts-ontology.github.io/SemTS/
 
 # Naming Conventions
 - Directories and files: All small letters, separated by underscores (_). Example: `ontology.ttl`
-- Prefixes: In semTS Ontology, we use https://prefix.cc/ to abbreviate URIs
-- Versioning: semTS releases will follow the Semantic Versioning Specification 2.0.0 (SemVer - Major.Minor.Patch)
+- Prefixes: In SemTS Ontology, we use https://prefix.cc/ to abbreviate URIs
+- Versioning: SemTS releases will follow the Semantic Versioning Specification 2.0.0 (SemVer - Major.Minor.Patch)
 
 # Changelog
 02/14/25: Initial version of a documentation added
