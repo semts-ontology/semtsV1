@@ -1,8 +1,13 @@
 # SemTS
 Ontology for the Semantic Classification of Time Series Knowledge
 
-![Architecture](assets/images/semts_architecture.png)
+# Documentation
+https://semts-ontology.github.io/SemTS/
 
-Documentation and permanent identifier will follow soon.
+# Naming Conventions
+- Directories and files: All small letters, separated by underscores (_). Example: `ontology.ttl`
+- Prefixes: In semTS Ontology, we use https://prefix.cc/ to abbreviate URIs
+- Versioning: semTS releases will follow the Semantic Versioning Specification 2.0.0 (SemVer - Major.Minor.Patch)
 
-Update (02/04/25): An update of SemTS (V2) will be released in the upcoming weeks.
+# Changelog
+02/14/25: Initial version of a documentation added
